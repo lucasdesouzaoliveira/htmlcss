@@ -1,0 +1,20 @@
+@charset "utf-8"; 
+body{
+    background-image: linear-gradient(to right,#F59D56,#F5B856);
+}
+h1{
+    text-align: center;
+    font-size: 3em;
+    font-family: Gluten;
+}
+main{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.651);
+}
+h2{
+    font-size: 2em;
+    font-weight: 900;
+    text-decoration: underline;
+    font-family:gluten;
+}
